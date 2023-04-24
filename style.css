@@ -349,7 +349,7 @@ header .master_play .vol input{
      content: '';
      position: absolute;
      width: 2000%;
-     height: 150px;
+     height: 250px;
      background: url('bg.png');
      z-index: -1;
  }
